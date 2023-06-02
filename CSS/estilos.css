@@ -13,6 +13,10 @@ main{
   align-items: center;
 }
 
+.greeting {
+  text-align: center;
+  }
+
 footer{
   height: 200px;
   background-color: antiquewhite;
